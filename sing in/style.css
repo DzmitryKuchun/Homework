@@ -9,7 +9,7 @@ body {
 .block {
     height: 575px;
     width: 430px;
-    background: linear-gradient(rgba(69, 85, 35, 0.75), rgba(148, 180, 54, 0.95));
+    background: linear-gradient(rgba(68, 35, 85, 0.75), rgba(144, 54, 180, 0.95));
     border-radius: 5px;
     box-shadow: 0px 2px 7px rgba(0, 0, 0, 0.5);
     margin-left: auto;
@@ -74,7 +74,7 @@ form {
 
 .form-singin {
     width: 100%;
-    background-color: rgb(70, 147, 53);
+    background-color: rgb(53, 53, 147);
     border: none;
     height: 35px;
     border-radius: 20px;
